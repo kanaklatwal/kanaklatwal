@@ -8,7 +8,7 @@ Focused on full-stack development and problem solving with modern web technologi
 ### 🛠 Technical Skills
 - JavaScript (ES6+), React  
 - MERN Stack (MongoDB, Express, Node.js)  
-- Core Java, C  
+- Java, C  
 - Data Structures & Algorithms  
 - SQL  
 - Git & GitHub
