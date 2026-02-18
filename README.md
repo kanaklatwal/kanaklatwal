@@ -41,4 +41,5 @@ To secure an entry-level software development or quality engineering role where 
 
 ### 📫 Contact
 - Email: kanaklatwal@gmail.com  
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/kanaklatwal
+- LeetCode: https://leetcode.com/u/kanaklatwal/
